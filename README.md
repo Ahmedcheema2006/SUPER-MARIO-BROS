@@ -4,7 +4,7 @@
 A fully functional 2D platformer built entirely in **x86 Assembly** using MASM32 and the Irvine32 library.
 
 ## Gameplay Link
-*[Add your gameplay video/demo link here]*
+[*[Game Play]*](https://www.linkedin.com/posts/muhammad-ahmed-cheema-75b454327_assemblylanguage-gamedev-x86-activity-7420138063890251776-HyUt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ4VDcBh7Y3WTlCxF2vgDRkfipUUQ3RJ14)
 
 ***
 
